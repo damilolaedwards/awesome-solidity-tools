@@ -18,3 +18,11 @@
 - [Security](#security)
 - [Hacks](#hacks)
 - [Templates](#templates)
+
+## Resources
+
+#### Official
+
+- [Home](https://soliditylang.org/) - Solidity Webisite
+- [Docs](https://docs.soliditylang.org/en/latest/) - Official documentation.
+- [Blog](https://soliditylang.org/blog/) - Official blog
