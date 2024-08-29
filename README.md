@@ -16,5 +16,5 @@
 - [Testing](#testing)
 - [Articles](#articles)
 - [Security](#security)
-- [hacks](#hacks)
+- [Hacks](#hacks)
 - [Templates](#templates)
