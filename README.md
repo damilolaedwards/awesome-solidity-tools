@@ -9,6 +9,7 @@
 - [Resources](#resources)
 - [Official Docs](#official)
 - [Books](#book)
+- [Courses](#courses)
 - [Libraries](#libraries)
 - [Ethereum](#ethereum)
 - [Blockchains](#blockchains)
@@ -23,6 +24,12 @@
 
 #### Official
 
-- [Home](https://soliditylang.org/) - Solidity Webisite
+- [Home](https://soliditylang.org/) - Solidity Website
 - [Docs](https://docs.soliditylang.org/en/latest/) - Official documentation.
 - [Blog](https://soliditylang.org/blog/) - Official blog
+
+#### Books
+
+- [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) - Mastering Ethereum Book
+- [Solidity Programming Essentials Second Edition](https://github.com/PacktPublishing/Solidity-Programming-Essentials-Second-Edition) - Solidity Programming Essentials Second Edition
+- [Introducing Ethereum and Solidity](https://github.com/clojurians-org/blockchain-ebook/blob/master/Introducing.Ethereum.and.Solidity.pdf) Introducing Ethereum and Solidity
