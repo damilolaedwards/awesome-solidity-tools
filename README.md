@@ -45,17 +45,13 @@
 
 #### Tools
 
-- [Slither](https://github.com/crytic/slither) - Slither
-- [Manticore](https://github.com/trailofbits/manticore/) - Manticore
+- [Slither](https://github.com/crytic/slither) - The smart contract static analyzer
 - [Wei Converter](https://www.alchemy.com/gwei-calculator) - Wei Converter
-- [Codeslaw](https://www.codeslaw.app/) - Codeslaw
+- [Codeslaw](https://www.codeslaw.app/) - Code search for verified smart contracts on ethereum, polygon, arbitrum, optimism, bnbchain, scroll, and blast!
 - [Solidity Array Generator](https://github.com/mds1/solidity-generators#readme) - Solidity Array Generator
-- [Seth](https://github.com/dapphub/dapptools/tree/master/src/seth#readme) - Seth
-- [Dapp](https://github.com/dapphub/dapptools/tree/master/src/dapp#readme) - Dapp
-- [Hevm](https://github.com/dapphub/dapptools/tree/master/src/hevm#readme) - Hevm
-- [Ethsign](https://github.com/dapphub/dapptools/tree/master/src/ethsign#readme) - Ethsign
-- [Solhint](https://protofire.github.io/solhint/) - Solhint
-- [Sourcify](https://sourcify.dev/) - Sourcify
+- [Seth](https://github.com/dapphub/dapptools/tree/master/src/seth#readme) - Ethereum client tool—like a "MetaMask for the command line
+- [Solhint](https://protofire.github.io/solhint/) - Open source project for linting Solidity code
+- [Sourcify](https://sourcify.dev/) - Source-verified smart contracts for transparency and better UX in web3
 - [OpenZeppelin Upgrades](https://docs.openzeppelin.com/upgrades-plugins/1.x/) - OpenZeppelin Upgrades
 - [Waffle](https://getwaffle.io/) - Waffle
 - [Transaction Decoder](https://tools.deth.net/tx-decoder) - Transaction Decoder
