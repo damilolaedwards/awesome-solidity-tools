@@ -60,3 +60,24 @@
 - [Transaction Decoder](https://tools.deth.net/tx-decoder) - Transaction Decoder
 - [ETH SDK](https://github.com/dethcrypto/eth-sdk) - ETH SDK
 - [OpenZeppelin Test Helpers](https://github.com/OpenZeppelin/openzeppelin-test-helpers) - OpenZeppelin Test Helpers
+- [dethcrypto/ethereum-code-viewer](https://github.com/dethcrypto/ethereum-code-viewer) - View the source of deployed Ethereum contracts in VSCode.
+- [dapphub/dapptools](https://github.com/dapphub/dapptools) - Command-line-friendly tools for blockchain development.
+- [EthFiddle](https://ethfiddle.com/recent_fiddles) - Find, share and embed contracts.
+- [EthereumStudio](https://github.com/ObsidianLabs/EthereumStudio) - Standalone desktop IDE.
+- [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+- [instant-dapp-ide](https://github.com/dominicwilliams/instant-dapp-ide) - Complete Dapp and Solidity development environment as a docker image you can run from command line.
+- [Hardhat](https://hardhat.org/) - Development environment to compile, deploy, test, and debug your Ethereum software.
+- [Laika](https://getlaika.app) - Make requests to smart contracts without the hassle of writing a single line of code.
+- [naddison36/sol2uml](https://github.com/naddison36/sol2uml) - Unified Modeling Language (UML) class diagram generator for smart contracts.
+- [OpenZeppelin](https://openzeppelin.com/) - Framework to build secure smart contracts.
+- [raineorshine/solidity-repl](https://github.com/raineorshine/solidity-repl) - REPL CLI.
+- [Remix](https://remix.ethereum.org/) - Online realtime compiler and runtime.
+- [SIF](https://github.com/chao-peng/SIF) - Code generation from the AST, analyse and instrument source code.
+- [Smart Contract Sanctuary](https://github.com/tintinweb/smart-contract-sanctuary) - A home for ethereum smart contracts, all verified smart contracts from Etherscan.
+- [Sourcify](https://sourcify.dev/) - Decentralized and open-sourced smart contract verification service.
+- [solgraph](https://github.com/raineorshine/solgraph) - Visualize control flows for smart contract security analysis.
+- [sol-merger](https://github.com/RyuuGan/sol-merger) - Merges all imports into single file for contracts.
+- [solidity-docgen](https://github.com/OpenZeppelin/solidity-docgen) - Documentation generator for Solidity projects.
+- [Tenderly](https://tenderly.co) - Easily monitor your smart contracts with error tracking, alerting, performance metrics, and detailed contract analytics.
+- [tintinweb/solidity-shell](https://github.com/tintinweb/solidity-shell) - An interactive Solidity shell with lightweight session recording.
+- [weiroll/weiroll](https://github.com/weiroll/weiroll) - A simple and efficient operation-chaining/scripting language for the EVM.
