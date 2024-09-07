@@ -34,12 +34,13 @@
 
 - [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) - Mastering Ethereum Book
 - [Solidity Programming Essentials Second Edition](https://github.com/PacktPublishing/Solidity-Programming-Essentials-Second-Edition) - Solidity Programming Essentials Second Edition
-- [Introducing Ethereum and Solidity](https://github.com/clojurians-org/blockchain-ebook/blob/master/Introducing.Ethereum.and.Solidity.pdf) Introducing Ethereum and Solidity
+- [Introducing Ethereum and Solidity](https://github.com/clojurians-org/blockchain-ebook/blob/master/Introducing.Ethereum.and.Solidity.pdf) - Introducing Ethereum and Solidity
 
 #### Courses
 
-- [Cyfrin Updraft](https://updraft.cyfrin.io/) - Cyfrin Updraft
-- [Alchemy University](https://www.alchemy.com/university) - Alchemy University
+- [Cyfrin Updraft](https://updraft.cyfrin.io/) - Teaching the next generation of smart contract developers.
+- [Alchemy University](https://www.alchemy.com/university) - Fast track your web3 journey through courses,
+  projects and code. Totally free.
 - [learn-solidity-blockchain-and-smart-contracts](https://www.freecodecamp.org/news/learn-solidity-blockchain-and-smart-contracts-in-a-free/) - Learn solidity blockchain and smart contracts
 
 #### Tools
