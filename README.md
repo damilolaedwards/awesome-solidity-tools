@@ -101,3 +101,10 @@
 - [Medusa](https://github.com/crytic/medusa) - Cross-platform go-ethereum-based smart contract fuzzer inspired by Echidna.
 - [Crytic-Compile](https://github.com/crytic/crytic-compile) - Library to help smart contract compilation.
 - [Properties](https://github.com/crytic/properties) - The properties can be used through unit tests or through fuzzing with Echidna or Medusa.
+- [ConsenSys/vscode-solidity-auditor](https://github.com/ConsenSys/vscode-solidity-auditor) - Language support and visual security auditor for Visual Studio Code.
+- [Ethereum Security Bundle](https://marketplace.visualstudio.com/items?itemName=tintinweb.ethereum-security-bundle) - A meta-extension bundling marketplace plugins for secure Ethereum smart contract development.
+- [sol-profiler-vscode](https://github.com/Aniket-Engg/sol-profiler-vscode) - Visual Code Extension to generate & store smart contract methods profile.
+- [vscode-solidity](https://github.com/juanfranblanco/vscode-solidity) - Visual Studio Code language support extension.
+- [Solidity Visual Developer](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor) - Visual Security audit, Security centric syntax and semantic highlighting, detailed class outline, UML diagram generator, and many more features.
+- [Solidity Contract Flattener](https://marketplace.visualstudio.com/items?itemName=tintinweb.vscode-solidity-flattener) - Flatten Solidity Contracts using truffle-flattener
+- [Solidity + Hardhat](https://marketplace.visualstudio.com/items?itemName=NomicFoundation.hardhat-solidity) - Adds general support for Solidity contracts development with features user expect to find in an IDE (code formatting, linting, prettifier, snippets, go to references, and so on). Go to choice for those relying on VSCode and Hardhat in their projects.
