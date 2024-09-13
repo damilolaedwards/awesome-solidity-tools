@@ -128,3 +128,14 @@
 - [Abdk-libraries-solidity](https://github.com/abdk-consulting/abdk-libraries-solidity) - Open-Source Libraries for Solidity by ABDK Consulting
 - [Solidity-Bytes-Utils](https://github.com/GNSPS/solidity-bytes-utils) - Utility Solidity library composed of basic operations for tightly packed bytes arrays
 - [Awesome-Solidity-Gas-Optimization](https://github.com/0xisk/awesome-solidity-gas-optimization) - Best resources for Solidity gas optimizations ⛽
+- [Solidity Code Metrics](https://github.com/Consensys/solidity-metrics) - Solidity Code Metrics
+- [Smock](https://github.com/defi-wonderland/smock) - The Solidity mocking library
+- [cheatsheet.sol](https://github.com/patrickd-/cheatsheet.sol) - Solidity – Compilable Cheatsheet
+- [Solidity-Shell](https://github.com/tintinweb/solidity-shell) - An interactive Solidity Shell
+- [Surya](https://github.com/Consensys/surya) - A set of utilities for exploring Solidity contracts
+- [Ethlint](https://github.com/duaraghav8/Ethlint) - (Formerly Solium) Code quality & Security Linter for Solidity
+- [1inch-solidity-utils](https://github.com/1inch/solidity-utils) - 1inch-solidity-utils
+- [Solidity-RLP](https://github.com/hamdiallam/Solidity-RLP) - A solidity library for Ethereum's RLP decoding Resources
+- [Solidity-nextjs-starter](https://github.com/tomhirst/solidity-nextjs-starter) - A full-stack dApp starter built on Ethereum (Solidity) with Next.js (React)
+- [Prb-math](https://github.com/PaulRBerg/prb-math) - Solidity library for advanced fixed-point math
+- [Solcurity](https://github.com/transmissions11/solcurity) - Opinionated security and code quality standard for Solidity smart contracts.
