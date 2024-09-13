@@ -35,6 +35,7 @@
 - [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) - Mastering Ethereum Book
 - [Solidity Programming Essentials Second Edition](https://github.com/PacktPublishing/Solidity-Programming-Essentials-Second-Edition) - Solidity Programming Essentials Second Edition
 - [Introducing Ethereum and Solidity](https://github.com/clojurians-org/blockchain-ebook/blob/master/Introducing.Ethereum.and.Solidity.pdf) - Introducing Ethereum and Solidity
+- [Solidity-Book](https://github.com/gakonst/solidity-book) - The Senior Solidity Engineer's Book is a resource meant to transform you into a Senior Solidity Engineer.
 
 #### Courses
 
@@ -108,3 +109,22 @@
 - [Solidity Visual Developer](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor) - Visual Security audit, Security centric syntax and semantic highlighting, detailed class outline, UML diagram generator, and many more features.
 - [Solidity Contract Flattener](https://marketplace.visualstudio.com/items?itemName=tintinweb.vscode-solidity-flattener) - Flatten Solidity Contracts using truffle-flattener
 - [Solidity + Hardhat](https://marketplace.visualstudio.com/items?itemName=NomicFoundation.hardhat-solidity) - Adds general support for Solidity contracts development with features user expect to find in an IDE (code formatting, linting, prettifier, snippets, go to references, and so on). Go to choice for those relying on VSCode and Hardhat in their projects.
+- [Ethernaut](https://github.com/OpenZeppelin/ethernaut) - Ethernaut is a Web3/Solidity based wargame inspired by overthewire, to be played in the Ethereum Virtual Machine. Each level is a smart contract that needs to be 'hacked'.
+- [Solady](https://github.com/Vectorized/solady) - Gas optimized Solidity snippets.
+- [Solidity-stringutils](https://github.com/Arachnid/solidity-stringutils) - String & slice utility library for Solidity
+- [Solidity-docgen](https://github.com/OpenZeppelin/solidity-docgen) - solidity-docgen is a program that extracts documentation for a Solidity project.
+- [Intellij-solidity](https://github.com/intellij-solidity/intellij-solidity) - Solidity plugin for IntelliJ
+- [Canoe-solidity](https://github.com/cryptofinlabs/canoe-solidity) - Lightweight Javascript library for decoding constructor arguments.
+- [Useful-solidity-patterns](https://github.com/dragonfly-xyz/useful-solidity-patterns) - useful-solidity-patterns
+- [Solc-js](https://github.com/ethereum/solc-js) -Javascript bindings for the Solidity compiler
+- [Solidity By Example](https://github.com/solidity-by-example/solidity-by-example.github.io) - Solidity By Example
+- [TheAlgorithms](https://github.com/TheAlgorithms/Solidity) - Algorithms and data structures implemented in Solidity
+- [Solidity-Attack-Vectors](https://github.com/Quillhash/Solidity-Attack-Vectors) - This Repository contains list of Common Solidity SmartContract Attack Vectors.
+- [Emacs-solidity](https://github.com/ethereum/emacs-solidity) - The official solidity-mode for EMACS
+- [BokkyPooBahsDateTimeLibrary](https://github.com/bokkypoobah/BokkyPooBahsDateTimeLibrary) - Gas-Efficient Solidity DateTime Library
+- [Vscode-Solidity-Auditor](https://github.com/Consensys/vscode-solidity-auditor) - Solidity language support and visual security auditor for Visual Studio Code
+- [RareSkills-Solidity-Exercises](https://github.com/RareSkills/Solidity-Exercises) - Exercises to learn solidity. This accompanies the RareSkills Learn Solidity resource.
+- [RareSkills-solidity-riddles](https://github.com/RareSkills/solidity-riddles) - A collection of Solidity security exercises and puzzles to test your knowledge of Solidity's more esoteric features
+- [Abdk-libraries-solidity](https://github.com/abdk-consulting/abdk-libraries-solidity) - Open-Source Libraries for Solidity by ABDK Consulting
+- [Solidity-Bytes-Utils](https://github.com/GNSPS/solidity-bytes-utils) - Utility Solidity library composed of basic operations for tightly packed bytes arrays
+- [Awesome-Solidity-Gas-Optimization](https://github.com/0xisk/awesome-solidity-gas-optimization) - Best resources for Solidity gas optimizations ⛽
