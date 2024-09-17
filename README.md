@@ -150,10 +150,29 @@
 - [Aderyn](https://github.com/Cyfrin/aderyn) - Aderyn 🦜 Rust-based Solidity AST analyzer.
 - [Solidity-Proxy-Playground](https://github.com/YAcademy-Residents/Solidity-Proxy-Playground) - The good, the bad, and the ugly of proxy implementations
 - [Fhevm](https://github.com/zama-ai/fhevm) - A Solidity library for interacting with an fhEVM blockchain.
-
 - [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) - Reproduce DeFi hacked incidents using Foundry.
 - [OffcierCia-tips-solidity-code-auditors](https://github.com/OffcierCia/tips-solidity-code-auditors) - Gaining the most elusive of tips. Add your input and let's collect them all!
 - [Slang](https://github.com/NomicFoundation/slang) - Solidity compiler tooling by @NomicFoundation
 - [Farcaster-solidity](https://github.com/pavlovdog/farcaster-solidity) - A collection of Solidity libraries for interacting with the Farcaster messages on-chain
 - [Remix](https://github.com/ethereum/remix-project) - Remix is a browser-based compiler and IDE that enables users to build Ethereum contracts with Solidity language and to debug transactions.
 - [Consensys-smart-contract-best-practices](https://github.com/Consensys/smart-contract-best-practices) - A guide to smart contract security best practices
+- [Soldeer](https://github.com/mario-eth/soldeer) - Solidity Package Manager written in rust
+- [verifyIPFS](https://github.com/MrChico/verifyIPFS) - Solidity library for verifying IPFS hashes
+- [verisol](https://github.com/microsoft/verisol) - A formal verifier and analysis tool for Solidity Smart Contracts
+- [solidity-fuzzing-comparison](https://github.com/devdacian/solidity-fuzzing-comparison) - A comparison of solidity fuzzing tools Foundry, Echidna & Medusa
+- [ape-solidity](https://github.com/ApeWorX/ape-solidity) - Solidity compiler plugin for the Ape Framework
+- [SublimeEthereum](https://github.com/davidhq/SublimeEthereum) - Ethereum Solidity, Vyper, Yul and StarkNet Cairo language syntaxes
+- [solidity-benchmarks](https://github.com/alephao/solidity-benchmarks) - Benchmarks of popular contract implementations in solidity
+- [abi2solidity](https://github.com/maxme/abi2solidity) - Convert an ABI to a solidity interface
+- [solidity math utils](https://github.com/barakman/solidity-math-utils) - solidity math utils
+- [pyrometer](https://github.com/nascentxyz/pyrometer) - A tool for analyzing the security and parameters of a solidity smart contract
+- [solstat](https://github.com/0xKitsune/solstat) - A Solidity static analyzer to identify contract vulnerabilities and gas efficiencies.
+- [halo2-solidity-verifier](https://github.com/privacy-scaling-explorations/halo2-solidity-verifier) - A set of tooling related to halo2 circuits verification inside Solidity contracts
+- [DeFiVulnLabs](https://github.com/SunWeb3Sec/DeFiVulnLabs) - To learn common smart contract vulnerabilities using Foundry!
+- [solidity zero finder rust](https://github.com/jeffreyscholz/solidity-zero-finder-rust) - solidity zero finder rust
+- [useWeb3](https://github.com/wslyvh/useWeb3) - useWeb3 provides a curated overview of the best and latest resources on Ethereum, blockchain and Web3 development.
+- [fuzzlib](https://github.com/perimetersec/fuzzlib) - Solidity Fuzzing Library
+- [Solidity-DevSecOps-Standard](https://github.com/0xsomnus/Solidity-DevSecOps-Standard) - A checklist detailing DevSecOps practices for EVM-based projects.
+- [DeFiLabs](https://github.com/SunWeb3Sec/DeFiLabs) - On-chain test DeFi using Foundry
+- [solgre](https://github.com/tintinweb/solgrep) - 🧠 A scriptable semantic grep utility for solidity
+- [web3j-solidity-gradle-plugin](https://github.com/hyperledger/web3j-solidity-gradle-plugin) - Gradle plugin providing tasks to compile Solidity contracts.
