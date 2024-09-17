@@ -139,3 +139,21 @@
 - [Solidity-nextjs-starter](https://github.com/tomhirst/solidity-nextjs-starter) - A full-stack dApp starter built on Ethereum (Solidity) with Next.js (React)
 - [Prb-math](https://github.com/PaulRBerg/prb-math) - Solidity library for advanced fixed-point math
 - [Solcurity](https://github.com/transmissions11/solcurity) - Opinionated security and code quality standard for Solidity smart contracts.
+- [hardhat-starter-kit](https://github.com/smartcontractkit/hardhat-starter-kit) - A repo for boilerplate code for testing, deploying, and shipping chainlink solidity code.
+- [Coinbase Solidity Style Guide](https://github.com/coinbase/solidity-style-guide) - Coinbase Solidity Style Guide
+- [CryptoFin's Solidity Auditing Checklist](https://github.com/cryptofinlabs/audit-checklist) - CryptoFin's Solidity Auditing Checklist
+- [Solidity Compiler Version Manager](https://github.com/alloy-rs/svm-rs) - Solidity Compiler Version Manager
+- [Elliptic-curve-solidity](https://github.com/witnet/elliptic-curve-solidity) - About
+  Elliptic Curve arithmetic operations written in Solidity
+- [solidity-merkle-trees](https://github.com/polytope-labs/solidity-merkle-trees) - The most advanced solidity library for merkle (multi) proof verification of different kinds of merkle trees
+- [Starlight](https://github.com/EYBlockchain/starlight) - ⚡ solidity --> zApp transpiler ⚡
+- [Aderyn](https://github.com/Cyfrin/aderyn) - Aderyn 🦜 Rust-based Solidity AST analyzer.
+- [Solidity-Proxy-Playground](https://github.com/YAcademy-Residents/Solidity-Proxy-Playground) - The good, the bad, and the ugly of proxy implementations
+- [Fhevm](https://github.com/zama-ai/fhevm) - A Solidity library for interacting with an fhEVM blockchain.
+
+- [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) - Reproduce DeFi hacked incidents using Foundry.
+- [OffcierCia-tips-solidity-code-auditors](https://github.com/OffcierCia/tips-solidity-code-auditors) - Gaining the most elusive of tips. Add your input and let's collect them all!
+- [Slang](https://github.com/NomicFoundation/slang) - Solidity compiler tooling by @NomicFoundation
+- [Farcaster-solidity](https://github.com/pavlovdog/farcaster-solidity) - A collection of Solidity libraries for interacting with the Farcaster messages on-chain
+- [Remix](https://github.com/ethereum/remix-project) - Remix is a browser-based compiler and IDE that enables users to build Ethereum contracts with Solidity language and to debug transactions.
+- [Consensys-smart-contract-best-practices](https://github.com/Consensys/smart-contract-best-practices) - A guide to smart contract security best practices
