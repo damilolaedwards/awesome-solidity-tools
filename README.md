@@ -176,3 +176,20 @@
 - [DeFiLabs](https://github.com/SunWeb3Sec/DeFiLabs) - On-chain test DeFi using Foundry
 - [solgre](https://github.com/tintinweb/solgrep) - 🧠 A scriptable semantic grep utility for solidity
 - [web3j-solidity-gradle-plugin](https://github.com/hyperledger/web3j-solidity-gradle-plugin) - Gradle plugin providing tasks to compile Solidity contracts.
+- [create2deployer](https://github.com/pcaversaccio/create2deployer) - Helper smart contract to make easier and safer usage of the `CREATE2` EVM opcode.
+- [solarray](https://github.com/evmcheb/solarray) - A blazing-fast helper library for convenient Solidity dynamic arrays
+- [hardhat-ignition](https://github.com/NomicFoundation/hardhat-ignition) - Hardhat Ignition is a declarative deployment system that enables you to deploy your smart contracts without navigating the mechanics of the deployment process.
+- [4naly3er](https://github.com/Picodes/4naly3er) - Static smart contract code 4naly3er
+- [vscode-solidity-inspector](https://github.com/PraneshASP/vscode-solidity-inspector) - A VSCode extension offering utilities for solidity smart-contract development.
+- [foundry-toolchain](https://github.com/foundry-rs/foundry-toolchain) - GitHub action to install Foundry
+- [buffer](https://github.com/ensdomains/buffer) - A library for working with mutable byte buffers in Solidity.
+- [solidity-debugger](https://github.com/robertaachenw/solidity-debugger) - solidity-debugger
+- [solidity-selector-miner](https://github.com/1inch/solidity-selector-miner) - solidity-selector-miner
+- [vscode-solidity-metrics](https://github.com/Consensys/vscode-solidity-metrics) - Generate Solidity Source Code Metrics, Complexity and Risk profile reports for your project.
+- [mythril](https://github.com/Consensys/mythril) - Security analysis tool for EVM bytecode. Supports smart contracts built for Ethereum, Hedera, Quorum, Vechain, Rootstock, Tron and other EVM-compatible blockchains.
+- [solidity-json-writer](https://github.com/bmeredith/solidity-json-writer) - A library to aid in the generation and construction of JSON for smart contract development.
+- [core](https://github.com/alloy-rs/core) - High-performance, well-tested & documented core libraries for Ethereum, in Rust
+- [abiencoder](https://github.com/HashEx/abiencoder) - HashEx ABI Encoder
+- [solidity-parser](https://github.com/solidity-parser/parser) - A Solidity parser for JS built on top of a robust ANTLR4 grammar
+- [Coinbase Solidity Style Guide](https://github.com/coinbase/solidity-style-guide) - Coinbase Solidity Style Guide
+- [Coinbase Solidity Style Guide](https://github.com/coinbase/solidity-style-guide) - Coinbase Solidity Style Guide
