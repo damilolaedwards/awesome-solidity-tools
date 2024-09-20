@@ -191,5 +191,3 @@
 - [core](https://github.com/alloy-rs/core) - High-performance, well-tested & documented core libraries for Ethereum, in Rust
 - [abiencoder](https://github.com/HashEx/abiencoder) - HashEx ABI Encoder
 - [solidity-parser](https://github.com/solidity-parser/parser) - A Solidity parser for JS built on top of a robust ANTLR4 grammar
-- [Coinbase Solidity Style Guide](https://github.com/coinbase/solidity-style-guide) - Coinbase Solidity Style Guide
-- [Coinbase Solidity Style Guide](https://github.com/coinbase/solidity-style-guide) - Coinbase Solidity Style Guide
