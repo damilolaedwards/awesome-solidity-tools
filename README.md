@@ -191,3 +191,17 @@
 - [core](https://github.com/alloy-rs/core) - High-performance, well-tested & documented core libraries for Ethereum, in Rust
 - [abiencoder](https://github.com/HashEx/abiencoder) - HashEx ABI Encoder
 - [solidity-parser](https://github.com/solidity-parser/parser) - A Solidity parser for JS built on top of a robust ANTLR4 grammar
+
+- [evm-blockchain-bridge](https://github.com/chainstacklabs/evm-blockchain-bridge) - A simplified blockchain bridge between two EVM compatible networks
+- [pyevmasm](https://github.com/crytic/pyevmasm) - Ethereum Virtual Machine (EVM) disassembler and assembler
+- [4bytes](https://github.com/ethereum-lists/4bytes) - List of 4byte identifiers for EVM smart contract functions
+- [halmos](https://github.com/a16z/halmos) - A symbolic testing tool for EVM smart contracts
+- [chaindata](https://github.com/connext/chaindata) - Cross-chain EVM-based token data.
+- [blockscout](https://github.com/blockscout/blockscout) - Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.
+- [learn-evm-attacks](https://github.com/coinspect/learn-evm-attacks) - Learn and contribute by exploring blockchain attacks in detail. Maintained by Coinspect smart contract audit team, renowned for their top-tier smart contract audit services.
+- [evm-opcodes](https://github.com/crytic/evm-opcodes) - Ethereum opcodes and instruction reference
+- [evm-mnemonic-generator](https://github.com/SecorD0/evm-mnemonic-generator) - The program allows you to generate mnemonics and retrieve wallet informaton.
+- [peth](https://github.com/lmy375/peth) -An all-in-one Ethereum SDK and command-line tool written in python.
+- [swiss-knife](https://github.com/swiss-knife-xyz/swiss-knife) - All your EVM tools in one place!
+- [cryo](https://github.com/paradigmxyz/cryo) - cryo is the easiest way to extract blockchain data to parquet, csv, json, or python dataframes
+- [flood](https://github.com/paradigmxyz/flood) - flood is a load testing tool for benchmarking EVM nodes over RPC
