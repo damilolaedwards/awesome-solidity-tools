@@ -205,3 +205,12 @@
 - [swiss-knife](https://github.com/swiss-knife-xyz/swiss-knife) - All your EVM tools in one place!
 - [cryo](https://github.com/paradigmxyz/cryo) - cryo is the easiest way to extract blockchain data to parquet, csv, json, or python dataframes
 - [flood](https://github.com/paradigmxyz/flood) - flood is a load testing tool for benchmarking EVM nodes over RPC
+
+- [evm-knife](https://github.com/chainstacklabs/evm-knife) - This project is a collection of Web3 tools to make it easier for developers to encode, decode, and convert EVM friendly values.
+- [forge-alphanet](https://github.com/paradigmxyz/forge-alphanet) - Foundry tools for interfacing with Reth Alphanet's bleeding-edge EVM extensions.
+- [free-eth-node](https://github.com/dawsbot/free-eth-node) - 🔥⛓ Connect to any EVM chain instantly
+- [multicaller](https://github.com/gerrrg/multicaller) - Python package for abstracting and simplifying multicaller contract calls on Ethereum/EVM chains
+- [Crypto-OpSec-SelfGuard-RoadMap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap) - Here we collect and discuss the best DeFi, Blockchain and crypto-related OpSec researches and data terminals - contributions are welcome.
+- [go-defi](https://github.com/leofisG/go-defi) - Go-defi is a library that allows you to interact with various defi protocols including Aave, Compound and Uniswap in one transaction. It also supports Aave flash loan and Uniswap flash swap.
+- [DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references!
+- [defi-resources](https://github.com/simpleaswater/defi-resources) - A curated list of awesome decentralized finance projects, software, DeFi project trackers, analytics dashboards, and, DeFi product management resources.
