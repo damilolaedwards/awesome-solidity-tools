@@ -214,3 +214,4 @@
 - [go-defi](https://github.com/leofisG/go-defi) - Go-defi is a library that allows you to interact with various defi protocols including Aave, Compound and Uniswap in one transaction. It also supports Aave flash loan and Uniswap flash swap.
 - [DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references!
 - [defi-resources](https://github.com/simpleaswater/defi-resources) - A curated list of awesome decentralized finance projects, software, DeFi project trackers, analytics dashboards, and, DeFi product management resources.
+- [uniswap-v3-simulator](https://github.com/DefiLab-xyz/uniswap-v3-simulator) - Uniswap V3 Backtester and Impermanent Loss Simulator for LP strategies
