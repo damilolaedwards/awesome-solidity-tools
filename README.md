@@ -215,3 +215,18 @@
 - [DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references!
 - [defi-resources](https://github.com/simpleaswater/defi-resources) - A curated list of awesome decentralized finance projects, software, DeFi project trackers, analytics dashboards, and, DeFi product management resources.
 - [uniswap-v3-simulator](https://github.com/DefiLab-xyz/uniswap-v3-simulator) - Uniswap V3 Backtester and Impermanent Loss Simulator for LP strategies
+- [gochain/web3](https://github.com/gochain/web3) - A CLI tool to interact with web3 blockchains - Ethereum, GoChain, etc
+- [coinbase-wallet-sdk](https://github.com/coinbase/coinbase-wallet-sdk) - An open protocol that lets users connect their mobile wallets to your DApp
+- [smartbugs](https://github.com/smartbugs/smartbugs) - SmartBugs: A Framework to Analyze Ethereum Smart Contracts
+- [go-ethlibs](https://github.com/INFURA/go-ethlibs) - Ethereum libraries in Go for interacting with Ethereum nodes
+- [eth-utils](https://github.com/ethereum/eth-utils) - Utility functions for working with ethereum related codebases.
+- [revoke.cash](https://github.com/RevokeCash/revoke.cash) - ❌ Revoke or update your token approvals
+- [/thirdweb-dev/contracts](https://github.com/thirdweb-dev/contracts) - Collection of smart contracts deployable via thirdweb
+- [/eth-sig-util](https://github.com/MetaMask/eth-sig-util) - A collection of functions for signing and verifying data with Ethereum keys.
+- [nim-eth](https://github.com/status-im/nim-eth) - Common utilities for Ethereum
+- [EIPs](https://github.com/ethereum/EIPs) - The Ethereum Improvement Proposal repository
+- [ethereum-api](https://github.com/provable-things/ethereum-api) - Provable API for Ethereum smart contracts
+- [wagmi](https://github.com/wevm/wagmi) - Reactive primitives for Ethereum apps
+- [viem](https://github.com/wevm/viem) - TypeScript Interface for Ethereum
+- [ethereum-optimism](https://github.com/ethereum-optimism/ethereum-optimism.github.io) - Unified token list for OP Mainnet, Base, and other OP Chains
+- [rainbow-me](https://github.com/rainbow-me/rainbow) - 🌈‒ the Ethereum wallet that lives in your pocket
