@@ -4,47 +4,7 @@
   <p align="center">A  list of <a href="https://en.wikipedia.org/wiki/Solidity">Solidity</a> resources, tools, and frameworks</p>
 </div>
 
-### Table of contents
-
-- [Resources](#resources)
-- [Official Docs](#official)
-- [Books](#book)
-- [Courses](#courses)
-- [Tools](#tools)
-- [Libraries](#libraries)
-- [Ethereum](#ethereum)
-- [Blockchains](#blockchains)
-- [Tutorials](#tutorials)
-- [Testing](#testing)
-- [Articles](#articles)
-- [Security](#security)
-- [Hacks](#hacks)
-- [Templates](#templates)
-
-## Resources
-
-#### Official
-
-- [Home](https://soliditylang.org/) - Solidity Website
-- [Docs](https://docs.soliditylang.org/en/latest/) - Official documentation.
-- [Blog](https://soliditylang.org/blog/) - Official blog
-- [Ethereum](https://soliditylang.org/) - Ethereum Website
-
-#### Books
-
-- [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) - Mastering Ethereum Book
-- [Solidity Programming Essentials Second Edition](https://github.com/PacktPublishing/Solidity-Programming-Essentials-Second-Edition) - Solidity Programming Essentials Second Edition
-- [Introducing Ethereum and Solidity](https://github.com/clojurians-org/blockchain-ebook/blob/master/Introducing.Ethereum.and.Solidity.pdf) - Introducing Ethereum and Solidity
-- [Solidity-Book](https://github.com/gakonst/solidity-book) - The Senior Solidity Engineer's Book is a resource meant to transform you into a Senior Solidity Engineer.
-
-#### Courses
-
-- [Cyfrin Updraft](https://updraft.cyfrin.io/) - Teaching the next generation of smart contract developers.
-- [Alchemy University](https://www.alchemy.com/university) - Fast track your web3 journey through courses,
-  projects and code. Totally free.
-- [learn-solidity-blockchain-and-smart-contracts](https://www.freecodecamp.org/news/learn-solidity-blockchain-and-smart-contracts-in-a-free/) - Learn solidity blockchain and smart contracts
-
-#### Tools
+## Tools
 
 - [Slither](https://github.com/crytic/slither) - The smart contract static analyzer
 - [Seth](https://github.com/dapphub/dapptools/tree/master/src/seth#readme) - Ethereum client tool—like a "MetaMask for the command line
