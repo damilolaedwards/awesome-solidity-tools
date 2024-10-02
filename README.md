@@ -47,45 +47,29 @@
 #### Tools
 
 - [Slither](https://github.com/crytic/slither) - The smart contract static analyzer
-- [Wei Converter](https://www.alchemy.com/gwei-calculator) - Wei Converter
-- [Codeslaw](https://www.codeslaw.app/) - Code search for verified smart contracts on ethereum, polygon, arbitrum, optimism, bnbchain, scroll, and blast!
-- [Solidity Array Generator](https://github.com/mds1/solidity-generators#readme) - Solidity Array Generator
 - [Seth](https://github.com/dapphub/dapptools/tree/master/src/seth#readme) - Ethereum client tool—like a "MetaMask for the command line
-- [Solhint](https://protofire.github.io/solhint/) - Open source project for linting Solidity code
-- [Sourcify](https://sourcify.dev/) - Source-verified smart contracts for transparency and better UX in web3
-- [OpenZeppelin Upgrades](https://docs.openzeppelin.com/upgrades-plugins/1.x/) - OpenZeppelin Upgrades
-- [Waffle](https://getwaffle.io/) - Waffle
-- [Transaction Decoder](https://tools.deth.net/tx-decoder) - Transaction Decoder
+- [Solhint](https://github.com/protofire/solhint) - Open source project for linting Solidity code
+- [Sourcify](https://github.com/ethereum/sourcify) - Source-verified smart contracts for transparency and better UX in web3
+- [merkle-tree](https://github.com/OpenZeppelin/merkle-tree) - A JavaScript library to generate merkle trees and merkle proofs.
+- [openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
+- [openzeppelin-upgrades](https://github.com/OpenZeppelin/openzeppelin-upgrades) - Plugins for Hardhat and Foundry to deploy and manage upgradeable contracts on Ethereum.
+- [awesome-openzeppelin](https://github.com/OpenZeppelin/awesome-openzeppelin) - Awesome-openzeppelin
+- [dethtools](https://github.com/dethcrypto/dethtools) - A handy toolset for every Ethereum developer ⚒️
 - [ETH SDK](https://github.com/dethcrypto/eth-sdk) - ETH SDK
-- [OpenZeppelin Test Helpers](https://github.com/OpenZeppelin/openzeppelin-test-helpers) - OpenZeppelin Test Helpers
 - [dethcrypto/ethereum-code-viewer](https://github.com/dethcrypto/ethereum-code-viewer) - View the source of deployed Ethereum contracts in VSCode.
 - [dapphub/dapptools](https://github.com/dapphub/dapptools) - Command-line-friendly tools for blockchain development.
-- [EthFiddle](https://ethfiddle.com/recent_fiddles) - Find, share and embed contracts.
 - [EthereumStudio](https://github.com/ObsidianLabs/EthereumStudio) - Standalone desktop IDE.
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
-- [instant-dapp-ide](https://github.com/dominicwilliams/instant-dapp-ide) - Complete Dapp and Solidity development environment as a docker image you can run from command line.
 - [Hardhat](https://hardhat.org/) - Development environment to compile, deploy, test, and debug your Ethereum software.
-- [Laika](https://getlaika.app) - Make requests to smart contracts without the hassle of writing a single line of code.
 - [naddison36/sol2uml](https://github.com/naddison36/sol2uml) - Unified Modeling Language (UML) class diagram generator for smart contracts.
-- [OpenZeppelin](https://openzeppelin.com/) - Framework to build secure smart contracts.
-- [raineorshine/solidity-repl](https://github.com/raineorshine/solidity-repl) - REPL CLI.
 - [Remix](https://remix.ethereum.org/) - Online realtime compiler and runtime.
-- [SIF](https://github.com/chao-peng/SIF) - Code generation from the AST, analyse and instrument source code.
-- [Smart Contract Sanctuary](https://github.com/tintinweb/smart-contract-sanctuary) - A home for ethereum smart contracts, all verified smart contracts from Etherscan.
-- [Sourcify](https://sourcify.dev/) - Decentralized and open-sourced smart contract verification service.
-- [solgraph](https://github.com/raineorshine/solgraph) - Visualize control flows for smart contract security analysis.
 - [sol-merger](https://github.com/RyuuGan/sol-merger) - Merges all imports into single file for contracts.
 - [solidity-docgen](https://github.com/OpenZeppelin/solidity-docgen) - Documentation generator for Solidity projects.
 - [Tenderly](https://tenderly.co) - Easily monitor your smart contracts with error tracking, alerting, performance metrics, and detailed contract analytics.
 - [tintinweb/solidity-shell](https://github.com/tintinweb/solidity-shell) - An interactive Solidity shell with lightweight session recording.
 - [weiroll/weiroll](https://github.com/weiroll/weiroll) - A simple and efficient operation-chaining/scripting language for the EVM.
-- [Bytes32 Converter Online](https://neptunemutual.com/web3-tools/string-to-bytes32-converter/) - Convert Solidity bytes32 to utf8 string or integers and vice versa.
-- [cleanunicorn/abi2signature](https://github.com/cleanunicorn/abi2signature) - Use the ABI of a smart contract to find out the function signatures.
 - [crytic/solc-select](https://github.com/crytic/solc-select) - CLI to quickly switch between compiler versions.
-- [DiverseSolutions/Diverse-Eth-Calculator](https://github.com/DiverseSolutions/Diverse-Eth-Calculator) - Website with Ethereum unit conversion & utility components.
-- [Ethereum Unit Converter](https://neptunemutual.com/web3-tools/ethereum-unit-converter/) - Online tool to convert the different ethereum denominations (wei, gwei, ether).
 - [ItsNickBarry/hardhat-contract-sizer](https://github.com/ItsNickBarry/hardhat-contract-sizer) - Output contract sizes with Hardhat.
-- [Online ABI Encoder](https://neptunemutual.com/web3-tools/solidity-abi-encoder-online/) - Online Solidity ABI Encoder to encode smart contract arguments, and also perform read and write operations on the blockchain.
 - [prettier-solidity/prettier-plugin-solidity](https://github.com/prettier-solidity/prettier-plugin-solidity) - Prettier plugin for automatically formatting your code.
 - [sambacha/prettier-config-solidity](https://github.com/sambacha/prettier-config-solidity) - Prettier config optimized to reduce AST churn & conform to the Solidity spec.
 - [sc-forks/solidity-coverage](https://github.com/sc-forks/solidity-coverage) - Code coverage tool.
@@ -95,33 +79,23 @@
 - [Echidna](https://github.com/crytic/echidna) - Define properties for your smart contract then use fuzzing to catch security bugs.
 - [Manticore](https://github.com/trailofbits/manticore) - Detects many common bug types, and can prove correctness properties with symbolic execution.
 - [Mythril](https://github.com/ConsenSys/mythril) - Security analysis tool for smart contracts.
-- [ethereum/sourcify](https://github.com/ethereum/sourcify) - Re-compiler that can be used to verify that bytecode corresponds to certain source code.
-- [eth-sri/securify2](https://github.com/eth-sri/securify2) - Tool for analyzing smart contracts for vulnerabilities and insecure coding.
-- [Slither](https://github.com/crytic/slither) - Static analyzer with support for many common bug types, including visualization tools for security-relevant information.
-- [MythX](https://mythx.io/) - Detection for security vulnerabilities in Ethereum smart contracts throughout the development life cycle
 - [Medusa](https://github.com/crytic/medusa) - Cross-platform go-ethereum-based smart contract fuzzer inspired by Echidna.
 - [Crytic-Compile](https://github.com/crytic/crytic-compile) - Library to help smart contract compilation.
 - [Properties](https://github.com/crytic/properties) - The properties can be used through unit tests or through fuzzing with Echidna or Medusa.
 - [ConsenSys/vscode-solidity-auditor](https://github.com/ConsenSys/vscode-solidity-auditor) - Language support and visual security auditor for Visual Studio Code.
-- [Ethereum Security Bundle](https://marketplace.visualstudio.com/items?itemName=tintinweb.ethereum-security-bundle) - A meta-extension bundling marketplace plugins for secure Ethereum smart contract development.
 - [sol-profiler-vscode](https://github.com/Aniket-Engg/sol-profiler-vscode) - Visual Code Extension to generate & store smart contract methods profile.
 - [vscode-solidity](https://github.com/juanfranblanco/vscode-solidity) - Visual Studio Code language support extension.
 - [Solidity Visual Developer](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor) - Visual Security audit, Security centric syntax and semantic highlighting, detailed class outline, UML diagram generator, and many more features.
-- [Solidity Contract Flattener](https://marketplace.visualstudio.com/items?itemName=tintinweb.vscode-solidity-flattener) - Flatten Solidity Contracts using truffle-flattener
 - [Solidity + Hardhat](https://marketplace.visualstudio.com/items?itemName=NomicFoundation.hardhat-solidity) - Adds general support for Solidity contracts development with features user expect to find in an IDE (code formatting, linting, prettifier, snippets, go to references, and so on). Go to choice for those relying on VSCode and Hardhat in their projects.
-- [Ethernaut](https://github.com/OpenZeppelin/ethernaut) - Ethernaut is a Web3/Solidity based wargame inspired by overthewire, to be played in the Ethereum Virtual Machine. Each level is a smart contract that needs to be 'hacked'.
 - [Solady](https://github.com/Vectorized/solady) - Gas optimized Solidity snippets.
 - [Solidity-stringutils](https://github.com/Arachnid/solidity-stringutils) - String & slice utility library for Solidity
-- [Solidity-docgen](https://github.com/OpenZeppelin/solidity-docgen) - solidity-docgen is a program that extracts documentation for a Solidity project.
 - [Intellij-solidity](https://github.com/intellij-solidity/intellij-solidity) - Solidity plugin for IntelliJ
-- [Canoe-solidity](https://github.com/cryptofinlabs/canoe-solidity) - Lightweight Javascript library for decoding constructor arguments.
 - [Useful-solidity-patterns](https://github.com/dragonfly-xyz/useful-solidity-patterns) - useful-solidity-patterns
-- [Solc-js](https://github.com/ethereum/solc-js) -Javascript bindings for the Solidity compiler
+- [Solc-js](https://github.com/ethereum/solc-js) - Javascript bindings for the Solidity compiler
 - [Solidity By Example](https://github.com/solidity-by-example/solidity-by-example.github.io) - Solidity By Example
 - [TheAlgorithms](https://github.com/TheAlgorithms/Solidity) - Algorithms and data structures implemented in Solidity
 - [Solidity-Attack-Vectors](https://github.com/Quillhash/Solidity-Attack-Vectors) - This Repository contains list of Common Solidity SmartContract Attack Vectors.
 - [Emacs-solidity](https://github.com/ethereum/emacs-solidity) - The official solidity-mode for EMACS
-- [BokkyPooBahsDateTimeLibrary](https://github.com/bokkypoobah/BokkyPooBahsDateTimeLibrary) - Gas-Efficient Solidity DateTime Library
 - [Vscode-Solidity-Auditor](https://github.com/Consensys/vscode-solidity-auditor) - Solidity language support and visual security auditor for Visual Studio Code
 - [RareSkills-Solidity-Exercises](https://github.com/RareSkills/Solidity-Exercises) - Exercises to learn solidity. This accompanies the RareSkills Learn Solidity resource.
 - [RareSkills-solidity-riddles](https://github.com/RareSkills/solidity-riddles) - A collection of Solidity security exercises and puzzles to test your knowledge of Solidity's more esoteric features
@@ -131,9 +105,7 @@
 - [Solidity Code Metrics](https://github.com/Consensys/solidity-metrics) - Solidity Code Metrics
 - [Smock](https://github.com/defi-wonderland/smock) - The Solidity mocking library
 - [cheatsheet.sol](https://github.com/patrickd-/cheatsheet.sol) - Solidity – Compilable Cheatsheet
-- [Solidity-Shell](https://github.com/tintinweb/solidity-shell) - An interactive Solidity Shell
 - [Surya](https://github.com/Consensys/surya) - A set of utilities for exploring Solidity contracts
-- [Ethlint](https://github.com/duaraghav8/Ethlint) - (Formerly Solium) Code quality & Security Linter for Solidity
 - [1inch-solidity-utils](https://github.com/1inch/solidity-utils) - 1inch-solidity-utils
 - [Solidity-RLP](https://github.com/hamdiallam/Solidity-RLP) - A solidity library for Ethereum's RLP decoding Resources
 - [Solidity-nextjs-starter](https://github.com/tomhirst/solidity-nextjs-starter) - A full-stack dApp starter built on Ethereum (Solidity) with Next.js (React)
@@ -141,10 +113,8 @@
 - [Solcurity](https://github.com/transmissions11/solcurity) - Opinionated security and code quality standard for Solidity smart contracts.
 - [hardhat-starter-kit](https://github.com/smartcontractkit/hardhat-starter-kit) - A repo for boilerplate code for testing, deploying, and shipping chainlink solidity code.
 - [Coinbase Solidity Style Guide](https://github.com/coinbase/solidity-style-guide) - Coinbase Solidity Style Guide
-- [CryptoFin's Solidity Auditing Checklist](https://github.com/cryptofinlabs/audit-checklist) - CryptoFin's Solidity Auditing Checklist
 - [Solidity Compiler Version Manager](https://github.com/alloy-rs/svm-rs) - Solidity Compiler Version Manager
-- [Elliptic-curve-solidity](https://github.com/witnet/elliptic-curve-solidity) - About
-  Elliptic Curve arithmetic operations written in Solidity
+- [Elliptic-curve-solidity](https://github.com/witnet/elliptic-curve-solidity) - About Elliptic Curve arithmetic operations written in Solidity
 - [solidity-merkle-trees](https://github.com/polytope-labs/solidity-merkle-trees) - The most advanced solidity library for merkle (multi) proof verification of different kinds of merkle trees
 - [Starlight](https://github.com/EYBlockchain/starlight) - ⚡ solidity --> zApp transpiler ⚡
 - [Aderyn](https://github.com/Cyfrin/aderyn) - Aderyn 🦜 Rust-based Solidity AST analyzer.
@@ -154,11 +124,8 @@
 - [OffcierCia-tips-solidity-code-auditors](https://github.com/OffcierCia/tips-solidity-code-auditors) - Gaining the most elusive of tips. Add your input and let's collect them all!
 - [Slang](https://github.com/NomicFoundation/slang) - Solidity compiler tooling by @NomicFoundation
 - [Farcaster-solidity](https://github.com/pavlovdog/farcaster-solidity) - A collection of Solidity libraries for interacting with the Farcaster messages on-chain
-- [Remix](https://github.com/ethereum/remix-project) - Remix is a browser-based compiler and IDE that enables users to build Ethereum contracts with Solidity language and to debug transactions.
 - [Consensys-smart-contract-best-practices](https://github.com/Consensys/smart-contract-best-practices) - A guide to smart contract security best practices
 - [Soldeer](https://github.com/mario-eth/soldeer) - Solidity Package Manager written in rust
-- [verifyIPFS](https://github.com/MrChico/verifyIPFS) - Solidity library for verifying IPFS hashes
-- [verisol](https://github.com/microsoft/verisol) - A formal verifier and analysis tool for Solidity Smart Contracts
 - [solidity-fuzzing-comparison](https://github.com/devdacian/solidity-fuzzing-comparison) - A comparison of solidity fuzzing tools Foundry, Echidna & Medusa
 - [ape-solidity](https://github.com/ApeWorX/ape-solidity) - Solidity compiler plugin for the Ape Framework
 - [SublimeEthereum](https://github.com/davidhq/SublimeEthereum) - Ethereum Solidity, Vyper, Yul and StarkNet Cairo language syntaxes
@@ -184,14 +151,11 @@
 - [foundry-toolchain](https://github.com/foundry-rs/foundry-toolchain) - GitHub action to install Foundry
 - [buffer](https://github.com/ensdomains/buffer) - A library for working with mutable byte buffers in Solidity.
 - [solidity-debugger](https://github.com/robertaachenw/solidity-debugger) - solidity-debugger
-- [solidity-selector-miner](https://github.com/1inch/solidity-selector-miner) - solidity-selector-miner
 - [vscode-solidity-metrics](https://github.com/Consensys/vscode-solidity-metrics) - Generate Solidity Source Code Metrics, Complexity and Risk profile reports for your project.
-- [mythril](https://github.com/Consensys/mythril) - Security analysis tool for EVM bytecode. Supports smart contracts built for Ethereum, Hedera, Quorum, Vechain, Rootstock, Tron and other EVM-compatible blockchains.
 - [solidity-json-writer](https://github.com/bmeredith/solidity-json-writer) - A library to aid in the generation and construction of JSON for smart contract development.
 - [core](https://github.com/alloy-rs/core) - High-performance, well-tested & documented core libraries for Ethereum, in Rust
 - [abiencoder](https://github.com/HashEx/abiencoder) - HashEx ABI Encoder
 - [solidity-parser](https://github.com/solidity-parser/parser) - A Solidity parser for JS built on top of a robust ANTLR4 grammar
-
 - [evm-blockchain-bridge](https://github.com/chainstacklabs/evm-blockchain-bridge) - A simplified blockchain bridge between two EVM compatible networks
 - [pyevmasm](https://github.com/crytic/pyevmasm) - Ethereum Virtual Machine (EVM) disassembler and assembler
 - [4bytes](https://github.com/ethereum-lists/4bytes) - List of 4byte identifiers for EVM smart contract functions
@@ -205,7 +169,6 @@
 - [swiss-knife](https://github.com/swiss-knife-xyz/swiss-knife) - All your EVM tools in one place!
 - [cryo](https://github.com/paradigmxyz/cryo) - cryo is the easiest way to extract blockchain data to parquet, csv, json, or python dataframes
 - [flood](https://github.com/paradigmxyz/flood) - flood is a load testing tool for benchmarking EVM nodes over RPC
-
 - [evm-knife](https://github.com/chainstacklabs/evm-knife) - This project is a collection of Web3 tools to make it easier for developers to encode, decode, and convert EVM friendly values.
 - [forge-alphanet](https://github.com/paradigmxyz/forge-alphanet) - Foundry tools for interfacing with Reth Alphanet's bleeding-edge EVM extensions.
 - [free-eth-node](https://github.com/dawsbot/free-eth-node) - 🔥⛓ Connect to any EVM chain instantly
