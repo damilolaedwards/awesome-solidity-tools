@@ -1,4 +1,4 @@
-## **_Awesome Solidity Tools_**
+## **Awesome Solidity Tools**
 
 
 This list compiles a variety of essential tools and libraries for Solidity development, aimed at enhancing the efficiency, security, and performance of smart contract projects. From fuzz testing and static analysis to debugging and deployment, these resources are invaluable for both novice and experienced developers working within the Ethereum ecosystem.
