@@ -1,4 +1,7 @@
+**Awesome Solidity Tools
+
 This list compiles a variety of essential tools and libraries for Solidity development, aimed at enhancing the efficiency, security, and performance of smart contract projects. From fuzz testing and static analysis to debugging and deployment, these resources are invaluable for both novice and experienced developers working within the Ethereum ecosystem.
+
 | S/N | Tool Name & Link | Description |
 | --- | ---------------- | ----------- |
 | 1   | [Remix](https://remix.ethereum.org/) | 🌐 A browser-based real-time compiler and integrated development environment (IDE) for Solidity. It supports testing, debugging, and deploying smart contracts right from your browser. |
