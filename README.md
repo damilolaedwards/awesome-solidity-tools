@@ -1,11 +1,4 @@
-<div align="center">
-  <h1 align="center">Solidity Resources
-</h1>
-  <p align="center">A  list of <a href="https://en.wikipedia.org/wiki/Solidity">Solidity</a> resources, tools, and frameworks</p>
-</div>
-
-## Tools
-
+This list compiles a variety of essential tools and libraries for Solidity development, aimed at enhancing the efficiency, security, and performance of smart contract projects. From fuzz testing and static analysis to debugging and deployment, these resources are invaluable for both novice and experienced developers working within the Ethereum ecosystem.
 | S/N | Tool Name & Link | Description |
 | --- | ---------------- | ----------- |
 | 1   | [Remix](https://remix.ethereum.org/) | 🌐 A browser-based real-time compiler and integrated development environment (IDE) for Solidity. It supports testing, debugging, and deploying smart contracts right from your browser. |
@@ -151,3 +144,13 @@
 | 141 | [sol-profiler-vscode](https://github.com/Aniket-Engg/sol-profiler-vscode) | 📊 A Visual Studio Code extension for generating and storing smart contract method profiles. |
 | 142 | [multicaller](https://github.com/gerrrg/multicaller) | 📞 A Python package designed to simplify and abstract multicaller contract calls on Ethereum and EVM chains. |
 | 143 | [evm-knife](https://github.com/chainstacklabs/evm-knife) | 🔪 A collection of Web3 tools that help developers encode, decode, and convert EVM-friendly values easily. |
+
+## Contributing
+
+[Share your awesome tools with us!](https://github.com/crytic/building-secure-contracts/issues/new)
+
+---
+
+> **Disclaimer:** ⚠️ The tools and resources listed above are provided for informational purposes only. Trail of Bits does not endorse any tools it doesn't own and takes no responsibility for their functionality, security, or any potential issues that may arise from their use. Users are encouraged to conduct their own research and testing before integrating any of these tools into their projects. 🔍
+
+
