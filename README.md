@@ -3,7 +3,7 @@
 
 This list compiles a variety of essential tools and libraries for Solidity development, aimed at enhancing the efficiency, security, and performance of smart contract projects. From fuzz testing and static analysis to debugging and deployment, these resources are invaluable for both novice and experienced developers working within the Ethereum ecosystem.
 
-| S/N | Tool Name & Link | Description |
+| S/N | Tool | Description |
 | --- | ---------------- | ----------- |
 | 1   | [Remix](https://remix.ethereum.org/) | 🌐 A browser-based real-time compiler and integrated development environment (IDE) for Solidity. It supports testing, debugging, and deploying smart contracts right from your browser. |
 | 2   | [openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) | 🔒 A widely-used library for building secure, modular, and upgradeable smart contracts. It includes standard implementations for tokens, access control, and other important features. |
