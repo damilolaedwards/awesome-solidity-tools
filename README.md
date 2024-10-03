@@ -151,7 +151,7 @@ This list compiles a variety of essential tools and libraries for Solidity devel
 
 ## Contributing
 
-[Share your awesome tools with us!](https://github.com/crytic/building-secure-contracts/issues/new)
+[Share your awesome tool(s) with us!](https://github.com/crytic/building-secure-contracts/issues/new)
 
 ---
 
