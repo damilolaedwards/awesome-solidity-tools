@@ -151,7 +151,7 @@ This list compiles a variety of essential tools and libraries for Solidity devel
 
 ## Contributing
 
-[Share your awesome tool(s) with us!](https://github.com/damilolaedwards/awesome-solidity-tools/issues/new)
+[Share your awesome tool(s)](https://github.com/damilolaedwards/awesome-solidity-tools/issues/new)
 
 
 
